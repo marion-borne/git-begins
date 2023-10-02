@@ -1,6 +1,15 @@
 git clone "url"
+
+commandes push :
 git add .
 git commit -m "message"
 git push
+
+commandes pull : 
 git pull
 git fetch
+
+commandes branche : 
+git branche "nom de la nouvelle branche" : pour créer la branche 
+git checkout "nom de la noouvelle branceh" : pour switcher sur la nouvelle branche
+
